@@ -1,4 +1,4 @@
-![image](https://github.com/bobpeulen/gen_ai/assets/75362416/c4eb20ce-7c87-4b6c-a675-ce3075baa24b)# gen_ai
+![image](https://github.com/bobpeulen/gen_ai/assets/75362416/c4eb20ce-7c87-4b6c-a675-ce3075baa24b)
 All GenAI, LangChain, Vector db related topics
 
 
@@ -15,3 +15,4 @@ All GenAI, LangChain, Vector db related topics
 - client_handbags.ipynb. Images of handbags converted to embeddings, stored in vector db, queried by sending new image and returning top 3 similar images.
 
 - fashion_indentification.ipynb --> Using Yolov5 detecting clothing, deployed on OCI Data Science - Model Deployment. See artifact files
+- Vanna AI Example on Oracle Autonomous Database. Natural Language to SQL Query
